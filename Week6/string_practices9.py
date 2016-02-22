@@ -26,8 +26,3 @@ def preserve_and_reverse(line):
 			for i in range(len(x)-1, -1, -1):
 
 				final += x[i]
-
-	return final			
-
-preserve_and_reverse("this is a sample test")
-print(preserve_and_reverse("this is"))
