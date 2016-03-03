@@ -10,7 +10,7 @@ I want to thanks to all my friends to help me to finish every week of this cours
 
 And specially to the community of
 
-### Python Tabasco
+### @Python Tabasco
 
 ## License 
 
