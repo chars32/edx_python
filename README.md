@@ -12,7 +12,7 @@ And specially to the community of
 
 ### Python Tabasco
 
-**Try not. Do or do not. There is no try.**
+_Try not. Do or do not. There is no try._
 
 ### License 
 
