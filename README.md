@@ -16,8 +16,8 @@ And specially to the community of
 
 MIT 
 
-_Try not._
-_Do or do not._ 
-_There is no try._
+>Try not.
+>Do or do not.
+>There is no try.
 
--Yoda-
+>-Yoda-
