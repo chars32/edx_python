@@ -28,7 +28,6 @@ def create_grades_dict(file_name):
 		for x in range(2, len(lists)):
 			if lists[x] in tests_list:
 				position_number = tests_list.index(lists[x])+1
-				#print(lists[x], position_number, lists[x+1])
 				dictionary[lists[0]][position_number] = int(lists[x+1])
 				average += int(lists[lists.index(lists[x])+1])
 		dictionary[lists[0]][5] = average/4
